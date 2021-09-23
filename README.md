@@ -9,12 +9,12 @@ Author: James Atkinson
 
 ---
 
-* User
-
+## User
 - Who is your client?:  Fictional biomedical company.
 - What do they do?:  Found a free picture of some neurons, sooo neural augmentation?
 
 ---
 
+## Assets
 - Company logo made by me
 - Neuron photo taken from  free Codepen assets
